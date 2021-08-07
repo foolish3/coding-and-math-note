@@ -9,6 +9,7 @@ Input : arr[] = {5, 6}, m = 11
 Output : 30
 """
 Answer: 
+```python
 import math as mt
 def minTime(arr, n, m):
     # Initialise time, items equal to 0.
@@ -26,6 +27,5 @@ arr = [1, 2, 3]
 n = len(arr)
 m = 11
 print(minTime(arr, n, m))
-
 
 
