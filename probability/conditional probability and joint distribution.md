@@ -1,7 +1,7 @@
 # Distirbution Derivation
 
 
-# Positive False/True
+# Disease/Quality Test
 A laboratory blood test is 95 percent effective in detecting a
 certain disease when it is, in fact, present. However, the test also yields a “false
 positive” result for 1 percent of the healthy persons tested. (That is, if a healthy
